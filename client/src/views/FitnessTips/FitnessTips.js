@@ -21,7 +21,7 @@ function FitnessTips() {
             <div class="container">
              <div class="row my-row-spacer-30"></div>
                 <div class="row justify-content-center fit-row">
-                    <h1>Da Fitness Page</h1>
+                    <h1>Fitness Tips!!</h1>
                 </div>
                 <div class="row fit-row">
                     <div class="col d-flex justify-content-center fit-col">
@@ -49,7 +49,7 @@ function FitnessTips() {
                             <div class="row justify-content-center fit-row">
                                 <div class="col fit-col">
                                     <div>
-                                        Sleep is very important! When you're asleep is when your body heals your torn muscle fibers the most. If you don't sleep your body won't heal as well and you'll be killing your gains!
+                                        Sleep is very important! If you don't sleep your body won't heal as well and you'll be killing your gains!
                                     </div>
                                     <img class="card-img-top" src={sleep} alt="Card image cap" />
                                 </div>
@@ -62,7 +62,7 @@ function FitnessTips() {
                             <div class="row justify-content-center fit-row">
                                 <div class="col fit-col">
                                     <div>
-                                        Eat lots of protein to max out those GAINS!
+                                        Eat lots of protein to max out those GAINS! Protein helps your muscles grow AND keeps you full!
                                     </div>
                                     <img class="card-img-top" src={protein} alt="Card image cap" />
                                 </div>
