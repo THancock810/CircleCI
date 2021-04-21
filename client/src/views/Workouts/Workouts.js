@@ -23,18 +23,18 @@ function Workouts() {
                 </div>
                 <div class="row fit-row">
                     <div class="col d-flex justify-content-center fit-col">
-                        <div>Here you can find what we consider to be the most important tips for staying strong and healthy!</div>
+                        <div>Here you can find workout inspiration!</div>
                     </div>
                 </div>
                 <div class="row my-row-spacer-65"></div>
                 <div class="row fit-row">
                     <div class="col-md-4 fit-col">
                         <div class="row justify-content-center fit-row">
-                            <h3>Tip1</h3>
+                            <h3>Cardio Workout Idea</h3>
                             <div class="row justify-content-center fit-row">
                                 <div class="col fit-col">
                                     <div>
-                                        Find healthy foods you really enjoy, so it's not a chore!
+                                        Try a throwback to your childhood and jumprope! Jumping rope is a great way to get your heart rate up while still having fun.
                                     </div>
                                     {/*<img class="card-img-top" src={froot} alt="Card image cap" />*/}
                                 </div>
@@ -43,11 +43,11 @@ function Workouts() {
                     </div>
                     <div class="col-md-4 fit-col">
                         <div class="row justify-content-center fit-row">
-                            <h3>Tip2</h3>
+                            <h3>Strength Training Idea</h3>
                             <div class="row justify-content-center fit-row">
                                 <div class="col fit-col">
                                     <div>
-                                        Water is super important! It keeps you full and hydrated! It's also super for your skin!
+                                        When lifting weights, try to focus on your form. Being able to lift heavy weights is great, but it's meaningless without good form.
                                     </div>
                                     {/*<img class="card-img-top" src={watta} alt="Card image cap" />*/}
                                 </div>
@@ -56,11 +56,11 @@ function Workouts() {
                     </div>
                     <div class="col-md-4 fit-col">
                         <div class="row justify-content-center fit-row">
-                            <h3>Tip3</h3>
+                            <h3>Relaxed Workout Idea</h3>
                             <div class="row justify-content-center fit-row">
                                 <div class="col fit-col">
                                     <div>
-                                        Make sure you take your vitamins. Vitamins boost your immune system and prevent you from getting sick.
+                                        Go for a walk! It seems simple, but going for a walk is a simple way to get some activity in. Any movement is better than no movement!
                                     </div>
                                     {/*<img class="card-img-top" src={pillz} alt="Card image cap" />*/}
                                 </div>
