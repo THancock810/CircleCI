@@ -78,12 +78,10 @@ function Workouts() {
                     <div class="row fit-row">
                         <div class="col d-flex justify-content-left fit-col">
                             <ul>
-                                <li>Link to something (nutrition ideas?)</li>
-                                <li>Idk, link to something else lol</li>
-                                <li>some other third thing</li>
-                                <div>maybe we could fuse the health tips below this? Idk what we're doing with them</div>
-                            </ul>
-                            
+                                <li><a href="https://www.fitnessblender.com/" target="_blank">Workout video resources</a></li>
+                                <li><a href="https://www.medicalnewstoday.com/articles/best-cardio-workouts" target="_blank">Cardio Tips</a></li>
+                                <li><a href="https://www.self.com/story/8-strength-exercises" target="_blank">Tips for strength training</a></li>
+                            </ul>   
                         </div>
                     </div>
                 </div>
