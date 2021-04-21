@@ -22,7 +22,7 @@ function HealthTips() {
             <div class="container">
              <div class="row my-row-spacer-30"></div>
                 <div class="row justify-content-center fit-row">
-                    <h1>Health Tips of the Week!</h1>
+                    <h1>Health Tips!</h1>
                 </div>
                 <div class="row fit-row">
                     <div class="col d-flex justify-content-center fit-col">
