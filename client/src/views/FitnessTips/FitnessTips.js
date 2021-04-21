@@ -80,10 +80,9 @@ function FitnessTips() {
                     <div class="row fit-row">
                         <div class="col d-flex justify-content-left fit-col">
                             <ul>
-                                <li>Link to something (nutrition ideas?)</li>
-                                <li>Idk, link to something else lol</li>
-                                <li>some other third thing</li>
-                                <div>maybe we could fuse the health tips below this? Idk what we're doing with them</div>
+                                <li><a href="https://gethealthyu.com/101-fitness-tips-that-rock/" target="_blank">Some general fitness tips to start today!</a></li>
+                                <li><a href="https://www.mensjournal.com/health-fitness/25-expert-fitness-tips-and-strategies-every-lifter-should-know/" target="_blank">Men's Journal's Top 25 Fitness Tips</a></li>
+                                <li><a href="https://www.coachmag.co.uk/fitness/5851/20-effective-health-and-fitness-tips" target="_blank">Coach Magazine's "20 Effective Health and Fitness Tips"</a></li>
                             </ul>
                         </div>
                     </div>
