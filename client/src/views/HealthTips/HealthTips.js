@@ -81,12 +81,10 @@ function HealthTips() {
                     <div class="row fit-row">
                         <div class="col d-flex justify-content-left fit-col">
                             <ul>
-                                <li>Link to something (nutrition ideas?)</li>
-                                <li>Idk, link to something else lol</li>
-                                <li>some other third thing</li>
-                                <div>maybe we could fuse the health tips below this? Idk what we're doing with them</div>
+                                <li><a href="https://www.who.int/philippines/news/feature-stories/detail/20-health-tips-for-2020" target="_blank">World Health Organization's 20 Health Tips</a></li>
+                                <li><a href="https://www.healthline.com/nutrition/27-health-and-nutrition-tips" target="_blank">Healthline's 27 Evidence-Based Nutrition Tips</a></li>
+                                <li><a href="https://www.medicinenet.com/healthy_living/article.htm" target="_blank">More Diet and Nutrition Tips</a></li>
                             </ul>
-                            
                         </div>
                     </div>
                 </div>
