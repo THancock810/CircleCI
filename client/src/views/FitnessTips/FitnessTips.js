@@ -85,11 +85,11 @@ function FitnessTips() {
                                 <li>some other third thing</li>
                                 <div>maybe we could fuse the health tips below this? Idk what we're doing with them</div>
                             </ul>
-                            
                         </div>
                     </div>
                 </div>
-            </div>     
+            </div>
+            <div class="row my-row-spacer-100" />     
         </div>
     );
 }
