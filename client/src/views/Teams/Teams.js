@@ -27,11 +27,11 @@ function Teams() {
                     </div>
                 </div>
                 <div class="row my-row">
-                    <div class="col d-flex justify-content-left my-col">
+                    <div class="col d-flex justify-content-center my-col">
                         <div>
-                            <div> Our teams are super cool and dope and stuff blah blah blah</div>
-                            <div> The teams are listed below with their members and total number of points for this semester(?)</div>
-                            <div> This is reasonable temp description so that I can guage the necessary width of the container. Also the pictures below are temporary and 100% copywritten</div>
+                            <div> </div>
+                            <div> Here are the standings for the TT Fit Bros Teams!</div>
+                            
                         </div>
                     </div>
                 </div>
