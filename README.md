@@ -1,4 +1,7 @@
-## How To Run App
+## Link to deployed site: 
+https://uftthealth.herokuapp.com/Home
+
+## How To Run App Locally
 
 1. Make sure you have Node.js installed. [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
